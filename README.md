@@ -1,4 +1,24 @@
 # This Project extend the SB Admin 2 Bootstrap 
+This Project developed on the 1st January 2019 for Persatuan Teknologi Maklumat (PERTEKMA) of University Malaysia Sarawak (UNIMAS).
+
+
+This Project being presented for Grill & Chill by MaGIC Sarawak. During this Grill or Chill Sharing Session in March 2019 by MaGIC Sarawak, my pitching was covered about the inventions and the project details of "PERTEKMA Activity Monitoring" to motivate the experts regarding the objectives and the ideas. During this session, the key points highlighted were to provide focuses, succinct, and statements of the project's value that differentiate me from others who offered or similar value. This included the specialty of the project's framework, and the ability of this project will offer to society. 
+
+
+## Introduction
+### 1.1 Background
+The Persatuan Teknologi Maklumat or better known as PERTEKMA is an organization in Faculty of Computer Science and Technology (FCSIT), UNIMAS. PERTEKMA acts to represent students in all respects and expresses the hearts and the views of students to the Institution. PERTEKMA is responsible for helping produce excellent students in skills, sports, and so on in order to carry out any other activities as determined by the Student Affairs Unit (HEPA), faculty and lecturer’s extra request from time to time.
+
+
+Basically, the current situation of PERTEKMA in handling their activities, they do not have an appropriate tool to manage and keeping their activity records. Therefore, it is hard for the advisor to follow up in real time their activity executions and performance. Thus, the solution is to propose a quality management system named PERTEKMA Activity Monitor- ing. A quality management system consists of the organizational structure, responsibilities, procedures, and resources to ensure products, processes or services satisfy stated or implicit needs (ISO 8402). In conclusion, PERTEKMA Activity Monitoring beneficial in improving the current traditional way of monitoring student’s activity. This system provides efficiency in managing their activity record.
+
+### 1.2 Objective
+The objectives of the system are:
+i) To propose a workflow of the activity execution of PERTEKMA's exco in managing their activities
+ii) To design and develop a monitoring system for managing PERTEKMA’s records
+iii) To display the statistical data of PERTEKMA Activities monthly or yearly
+
+
 ## [Start Bootstrap - SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/)
 
 [SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
