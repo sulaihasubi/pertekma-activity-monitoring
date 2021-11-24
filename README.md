@@ -34,7 +34,7 @@ For the legacy Bootstrap 3 version of this theme, you can view the [last stable 
 <!-- 
 **[Launch Live Preview](https://blackrockdigital.github.io/startbootstrap-sb-admin-2/)** -->
 
-**[Launch Live Preview](https://startbootstrap.com/theme/sb-admin-2)**
+**[Launch Live Preview](https://startbootstrap.com/previews/sb-admin-2)**
 
 ## Status
 
