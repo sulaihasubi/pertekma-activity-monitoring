@@ -14,8 +14,11 @@ Basically, the current situation of PERTEKMA in handling their activities, they 
 
 ### 1.2 Objective
 The objectives of the system are:
+
 i) To propose a workflow of the activity execution of PERTEKMA's exco in managing their activities
+
 ii) To design and develop a monitoring system for managing PERTEKMA’s records
+
 iii) To display the statistical data of PERTEKMA Activities monthly or yearly
 
 
