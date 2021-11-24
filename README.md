@@ -22,6 +22,8 @@ ii) To design and develop a monitoring system for managing PERTEKMA’s records
 iii) To display the statistical data of PERTEKMA Activities monthly or yearly
 
 
+## Read full documentations - [here](https://github.com/sulaihasubi/pertekma-activity-monitoring/blob/main/PERTEKMA%20Activity%20Monitoring-Thesis.pdf)
+
 ## [Start Bootstrap - SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/)
 
 [SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
